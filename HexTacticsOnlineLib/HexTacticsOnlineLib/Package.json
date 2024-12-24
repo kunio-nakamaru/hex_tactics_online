@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "displayName": "Hex Tactics Online",
     "description": "Hex Tactics Online library",
-    "unity": "",
+    "unity": "Unity 2022",
     "dependencies": {}
   }
