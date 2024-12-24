@@ -1,0 +1,49 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # 'v'で始まるタグがプッシュされた時にトリガー（例: v1.0.0）
+
+jobs:
+  build:
+    runs-on: windows-latest  # Windows環境でビルド
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0'  # 使用する.NETのバージョン
+
+      - name: Restore dependencies
+        run: dotnet restore HexTacticsOnlineLib/HexTacticsOnlineLib/HexTacticsOnlineLib.csproj
+
+      - name: Build the project
+        run: dotnet build HexTacticsOnlineLib/HexTacticsOnlineLib/HexTacticsOnlineLib.csproj --configuration Release
+
+      - name: Publish the project
+        run: dotnet publish HexTacticsOnlineLib/HexTacticsOnlineLib/HexTacticsOnlineLib.csproj --configuration Release --output ./publish
+
+  release:
+    needs: build  # buildジョブが成功した後に実行
+    runs-on: ubuntu-latest  # リリースはLinux環境で実行
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create Release
+        uses: gh-actions/create-release@v1.0.0
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: 'Automated release triggered by GitHub Actions'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Asset
+        uses: gh-actions/upload-release-asset@v1.0.0
+        with:
