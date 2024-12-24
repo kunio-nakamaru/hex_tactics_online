@@ -1,0 +1,8 @@
+{
+    "name": "com.kunio-nakamaru.hex-tactics-online.lib",
+    "version": "1.0.0",
+    "displayName": "Hex Tactics Online library",
+    "description": "Hex Tactics Online library",
+    "unity": "",
+    "dependencies": {}
+  }

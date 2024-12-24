@@ -1,0 +1,7 @@
+{
+    "name": "HexTacticsOnlineLib",
+    "rootNamespace": "HexTacticsOnline",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

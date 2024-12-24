@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HexTacticsOnline.Lib.Test
-build_property.ProjectDir = C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\
+build_property.ProjectDir = C:\Users\kunio\GitHub\hex_tactics_online\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

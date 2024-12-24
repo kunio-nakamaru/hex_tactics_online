@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunio\\Unity\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\HexTacticsOnline.Lib.Test.csproj",
+      "projectUniqueName": "C:\\Users\\kunio\\GitHub\\hex_tactics_online\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\HexTacticsOnline.Lib.Test.csproj",
       "projectName": "HexTacticsOnline.Lib.Test",
-      "projectPath": "C:\\Users\\kunio\\Unity\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\HexTacticsOnline.Lib.Test.csproj",
+      "projectPath": "C:\\Users\\kunio\\GitHub\\hex_tactics_online\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\HexTacticsOnline.Lib.Test.csproj",
       "packagesPath": "C:\\Users\\kunio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunio\\Unity\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\obj\\",
+      "outputPath": "C:\\Users\\kunio\\GitHub\\hex_tactics_online\\HexTacticsOnlineLib\\HexTacticsOnline.Lib.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kunio\\Unity\\HexTacticsOnlineLib\\HexTacticsOnlineLib\\HexTacticsOnlineLib.csproj": {
-              "projectPath": "C:\\Users\\kunio\\Unity\\HexTacticsOnlineLib\\HexTacticsOnlineLib\\HexTacticsOnlineLib.csproj"
+            "C:\\Users\\kunio\\GitHub\\hex_tactics_online\\HexTacticsOnlineLib\\HexTacticsOnlineLib\\HexTacticsOnlineLib.csproj": {
+              "projectPath": "C:\\Users\\kunio\\GitHub\\hex_tactics_online\\HexTacticsOnlineLib\\HexTacticsOnlineLib\\HexTacticsOnlineLib.csproj"
             }
           }
         }
