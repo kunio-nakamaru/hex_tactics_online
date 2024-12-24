@@ -3,7 +3,7 @@ name: Build and Release
 on:
   push:
     tags:
-      - 'v*'  # 'v'で始まるタグがプッシュされた時にトリガー（例: v1.0.0）
+      - 'lib'  # 'v'で始まるタグがプッシュされた時にトリガー（例: v1.0.0）
 
 jobs:
   build:
