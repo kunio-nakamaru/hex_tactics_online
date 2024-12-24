@@ -13,7 +13,6 @@ namespace HexTacticsOnline.Lib
         public byte DungeonIndexIn;
         public byte KnownLevel;
 
-
         //敵が認知しているプレイヤーユニット情報
         //敵のプレイヤーに対する認知は個別。近くの敵に共有するスキルを大体がもってる。
         [NonSerialized]
