@@ -4,5 +4,10 @@
     "displayName": "Hex Tactics Online",
     "description": "Hex Tactics Online library",
     "unity": "2022.3",
-    "dependencies": {}
+    "dependencies": {},
+    "files": [
+      "Runtime/*.dll",
+      "*.asmdef",
+      "*.json"
+    ]
   }
