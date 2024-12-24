@@ -1,0 +1,11 @@
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\bin\Release\net8.0\HexTacticsOnline.Lib.deps.json
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\bin\Release\net8.0\HexTacticsOnline.Lib.dll
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\bin\Release\net8.0\HexTacticsOnline.Lib.pdb
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnlineLib.csproj.AssemblyReference.cache
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnlineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnlineLib.AssemblyInfoInputs.cache
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnlineLib.AssemblyInfo.cs
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnlineLib.csproj.CoreCompileInputs.cache
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacti.FBD6D63C.Up2Date
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnline.Lib.dll
+C:\Users\kunio\Unity\HexTacticsOnlineLib\HexTacticsOnline.Lib.Test\bin\Release\net8.0\5747c0d1-22d8-48ce-9a72-9677f484fed4\obj\Release\net8.0\HexTacticsOnline.Lib.pdb
