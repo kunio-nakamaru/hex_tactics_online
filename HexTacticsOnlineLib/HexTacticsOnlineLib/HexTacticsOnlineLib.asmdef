@@ -1,9 +1,0 @@
-{
-    "name": "HexTacticsOnlineLib",
-    "references": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": true,
-    "precompiledReferences": [
-        "HexTacticsOnlineLib.dll"
-    ]
-}
