@@ -1,7 +1,9 @@
 {
     "name": "HexTacticsOnlineLib",
-    "rootNamespace": "HexTacticsOnline",
     "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": []
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "HexTacticsOnlineLib.dll"
+    ]
 }
