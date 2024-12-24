@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HexTacticsOnline.Lib.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6b422e3009bd674ed214e811c10bf78685b5c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+913b6de3b4b4e6274a80aad96058aac08380e16e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HexTacticsOnline.Lib.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HexTacticsOnline.Lib.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

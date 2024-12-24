@@ -6,7 +6,7 @@
   "unity": "2023.4",
   "dependencies": {},
   "files": [
-      "bin/Debug/netstandard2.1/HexAndSlashLib/*.dll",
+      "Plugins/*.dll",
       "*.asmdef",
       "*.json"
   ],
